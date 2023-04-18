@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95906844796",
+    "project_id": "questionachoixmultiple",
+    "storage_bucket": "questionachoixmultiple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95906844796:android:8ccc18dadf55667d06b9f9",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95906844796-pbpsofr655qs7sqlc36neohreolitiaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJ__BRUaXZZdQSuhrtHPA5clWYAhdP5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95906844796-pbpsofr655qs7sqlc36neohreolitiaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Questionnaire Maroc</string>
+    <string name="register">Cliquez ici pour vous inscrire !</string>
+    <string name="quiz1">Qui a inventé l\'ampoule électrique ?</string>
+    <string name="choix1">Thomas Edison</string>
+    <string name="choix2">Nikola Tesla</string>
+    <string name="quiz2">Qui a inventé le téléphone ?</string>
+    <string name="choix3">Alexander Graham Bell</string>
+    <string name="choix4">Antonio Meucci</string>
+    <string name="quiz3">Quel est le plus grand océan du monde ?</string>
+    <string name="choix5">L\'océan Pacifique</string>
+    <string name="choix6">L\'océan Atlantique</string>
+    <string name="quiz4">Qui a écrit le roman Les Misérables ?</string>
+    <string name="choix7">Victor Hugo</string>
+    <string name="choix8">Gustave Flaubert</string>
+    <string name="quiz5">Quel est le plus grand pays du monde ?</string>
+    <string name="choix9">La Russie</string>
+    <string name="choix10" translatable="false">Le Canada</string>
+</resources>
